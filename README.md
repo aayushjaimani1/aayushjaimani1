@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying Computer Science at VIT Bhopal<br>Always ready to explore and learn.
+Studying Computer Science at VIT Bhopal<br>Always ready to explore and learn
 
 
 # 💻 Tech Stack:
